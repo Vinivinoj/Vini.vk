@@ -3,7 +3,7 @@
 Projects 
 * HR analytics Project
 * Call Centre Analysis project
-* Car Selling Price Analysis - Notebook
+* Car Selling Price Analysis 
 
 # HR Analytics Project
 This project includes 4 reports and Dashboard showing various KPI's related to project.
@@ -14,5 +14,5 @@ Various insights have been drawn through this Analysis.
 This project includes  3 reports and Dashboard showing various KPI's related to project.
 The analysis has been done using visualisation tool like -Microsoft Power BI.
 
-# Car Selling Price Analysis - Notebook
+# Car Selling Price Analysis 
 this analysis has been done on the prices of the given cars and their characteristics,  features of cars affecting their prices, its colour, its Brand and how horsepower can also affect the selling price.
